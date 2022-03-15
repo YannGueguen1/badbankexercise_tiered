@@ -12,8 +12,9 @@ Then, simply navigate to http://localhost:3000/ to see the app for yourself.
 You will see at the top of the screen the different options available to you, such as creating an account with the bank, logging in, deposit/withdraw money and view your balance.
 
 # Screenshots: Screenshots or a GIF of your project in action.
-<!-- ![Alt text](/screenshots/Screenshot - Landing Page.jpg?raw=true "Optional Title") -->
+![Alt text](/screenshots/`Screenshot - Landing Page`.jpg?raw=true "Optional Title")
 ![Alt text](/screenshots/Screenshot.jpg?raw=true "Optional Title")
+![Alt text](/screenshots/`Screenshot - All Data`.jpg?raw=true "Optional Title")
 
 # Technology used: Your technology stack, listed out. 
 
