@@ -11,13 +11,20 @@ Then, simply navigate to http://localhost:3000/ to see the app for yourself.
 
 You will see at the top of the screen the different options available to you, such as creating an account with the bank, logging in, deposit/withdraw money and view your balance.
 
-# Screenshots: Screenshots or a GIF of your project in action.
-![Alt text](/screenshots/Screenshot%20-%20Landing%20Page.jpg?raw=true "Optional Title")
-![Alt text](/screenshots/Screenshot%20-%20All%20Data.jpg?raw=true "Optional Title")
+# Screenshots:
+![Alt text](/screenshots/Screenshot_Landing_Page.jpg?raw=true "Optional Title")
+![Alt text](/screenshots/Screenshot_All_Data.jpg?raw=true "Optional Title")
 
-# Technology used: Your technology stack, listed out. 
+# Technology used: Your technology stack, listed out.
+- Bootstrap
+- React
+- Node
+- Express
+- Docker
+- Mongo
 
-# Features: Your project’s features, and any future features you would like to include.
+# Features:
+I am working on getting the authentication sorted out, in order to have a more secure app
 
 # License:
 MIT
